@@ -1,0 +1,3 @@
+# GoogleNLPDemoApp application
+
+moderndesktopminimal template
